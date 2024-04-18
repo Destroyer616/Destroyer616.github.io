@@ -1,14 +1,14 @@
-baseURL: https://aafu.pages.dev/
+baseURL: https://Destroyer616.github.io
 languageCode: en-us
 build:
   writeStats: true
 params:
-  title: aafu theme
-  author: Darshan Baral
-  description: Website title
+  title: Saikiran Reddy Anugula
+  author: Saikiran Reddy Anugula
+  description: Website Title
   copyright: >-
     powered by [hugo](https://gohugo.io/) & deployed on
-    [Cloudflare](https://www.cloudflare.com/)
+    [Github Pages](https://pages.github.com/)
   theme:
     mainTheme: dark
     showAttribute: true
@@ -32,26 +32,14 @@ params:
     title: Links
     list:
       - icon: fab fa-linkedin-in
-        url: "#"
+        url: "https://www.linkedin.com/in/saikiran-reddy-anugula-sixonesix/"
         title: LinkedIn
-      - icon: fab fa-stack-overflow
-        url: "#"
-        title: StackOverflow
       - icon: fab fa-github
-        url: "#"
+        url: "https://github.com/Destroyer616"
         title: GitHub
       - icon: fab fa-twitter
-        url: "#"
+        url: "https://twitter.com/Anugula10/"
         title: Twitter
-      - icon: fab fa-orcid
-        url: "#"
-        title: Orcid
-      - icon: ai ai-google-scholar
-        url: "#"
-        title: Google Scholar
-      - icon: fab fa-researchgate
-        url: "#"
-        title: ResearchGate
   showInAccordion:
     - item: aboutme
       expand: true
@@ -64,107 +52,103 @@ params:
   aboutme:
     title: About Me
     icon: fas fa-user
-    description: This is a demo of the `aafu` theme. It has `light` and `dark` theme.
+    description: Im Saikiran Reddy a passionate Cyber security engineer.
   experience:
     title: Experiences
     icon: fas fa-briefcase
     list:
-      - position: Job Title
-        dates: 2019 - *Present*
-        company: Company Name
+      - position: Cyber Security Engineer.
+        dates: 2021 - *Present*
+        company: Suneratech Sutherland
         details: |1-
-          - Printed from desktop. Sent [emails](#).
-              - Called people *using* telephone.
-          - Drank water from office cooler.
-          - Ate donuts on people's birthdays.
-      - position: Job Title
-        dates: 2018 - 2019
-        url: "#"
-        company: Company Name
+          - Worked as a vulnerability management analyst.
+              - Helped patch number of critical vulnerable systems in the organization.
+          - Written scripts to automate some of the processes in the vulnerability management.
+          - Worked on power query to automate the process of vulnerability report preparation which con
+            be presented in a understandable format to the clients.
   education:
     title: Education
     icon: fas fa-graduation-cap
     list:
-      - degree: Ph.D. in Subject
-        college: University of State-City
-        dates: 2013 - 2018
-        thesis_title: "Effect of humans on other humans: a study of human behavior."
-        thesis_url: "#"
-      - degree: M.S. in Subject
-        college: University of State-City
-        dates: 2013 - 2018
-        thesis_title: "Effect of humans on other humans: a study of human behavior."
-        thesis_url: "#"
-      - degree: B.S. in Subject
-        college: University of State-City
-        dates: 2004 - 2009
-  publication:
-    title: Publications
-    icon: fas fa-book
-    format:
-      - date
-      - title
-      - authors
-      - journal
-    types:
-      - Journal Articles
-      - Proceedings
-    list:
-      - title: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        authors: "F Last, F Second, P secondary"
-        date: "2018"
-        journal: "Journal of Field 52 (16), 9033-9044"
-        url: "#"
-        type: Journal Articles
-      - title: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        authors: "F Last, F Second, P secondary"
-        date: "2018"
-        journal: "Journal of Field 52 (16), 9033-9044"
-        url: "#"
-        type: Journal Articles
-      - title: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        authors: "F Last, F Second, P secondary"
-        date: "2018"
-        journal: "Journal of Field 52 (16), 9033-9044"
-        url: "#"
-        type: Proceedings
+      - degree: Bachelors in Computer Science Engineering.
+        college: JBREC
+        dates: 2015 - 2019
+        percentage: 65
+      - degree: Intermediate
+        college: Sri Chaitanya Junior College.
+        dates: 2013-2015
+        percentage: 85
+      - degree: SSC
+        college: H.S.H.S
+        dates: 2015
+        percentage: 92
+#  publication:
+#    title: Publications
+#    icon: fas fa-book
+#    format:
+#      - date
+#      - title
+#      - authors
+#      - journal
+#    types:
+#      - Journal Articles
+#      - Proceedings
+#    list:
+#      - title: >-
+#          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+#          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#        authors: "F Last, F Second, P secondary"
+#        date: "2018"
+#        journal: "Journal of Field 52 (16), 9033-9044"
+#        url: "#"
+#        type: Journal Articles
+#      - title: >-
+#          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+#          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#        authors: "F Last, F Second, P secondary"
+#        date: "2018"
+#        journal: "Journal of Field 52 (16), 9033-9044"
+#        url: "#"
+#        type: Journal Articles
+#      - title: >-
+#          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+#          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#        authors: "F Last, F Second, P secondary"
+#        date: "2018"
+#        journal: "Journal of Field 52 (16), 9033-9044"
+#        url: "#"
+#        type: Proceedings
   project:
-    title: Projects
+    title: Projects and Certificates
     icon: fas fa-project-diagram
     list:
-      - title: Project 1
-        url: "#"
-        description: Description of the project
-      - title: Project 2
-        url: "#"
-        description: Description of the project
-      - title: Project 3
-        url: "#"
-        description: Description of the project
-      - title: Project 4
-        url: "#"
-        description: Description of the project
+      - title: Red Hat Certified System Administrator.
+        url: "https://rhtapps.redhat.com/verify?certId=230-122-822"
+        description: red hat certified system administarir, linux administration.
+      - title: Comptia Security Plus.
+        url: "https://www.credly.com/badges/52eaefac-ae53-4e53-9f70-194e8c6d9a9c/public_url"
+        description: This certificate validates baseline skills necesary to perform COmputer
+                      security functions in security job.
+      - title: Microsoft Azure Administrator.
+        url: "https://learn.microsoft.com/api/credentials/share/en-us/kiranreddy-3145/68FAA2EF1659E4BC?sharingId=9746CB64FA6C9FFE"
+        description: Validate ability to configure, manage, secure, and administer Azure environments.
   skill:
     title: Skills
     panelId: skill-panel
     icon: fas fa-cogs
     list:
-      - skill: "Skill 1, Skill 2"
+      - skill: "Vulnerability Management"
         skillrating: 90
-      - skill: Skill 3
-        skillrating: 80
-      - skill: Skill 4
-        skillrating: 50
+      - skill: "Linux, Redhat Linux"
+        skillrating: 88
+      - skill: "Bash Scripting, Python"
+        skillrating: 70
+      - skill:  "Power query, Tableau"
+        skillrating:  60
   hobby:
     title: Hobbies
     icon: fas fa-gamepad
     list:
-      - hobby: Cooking
-      - hobby: Hiking
-      - hobby: Baking
+      - hobby: Watching Sports
+      - hobby: Watching Content.
+      - hobby: Distro hopping.
