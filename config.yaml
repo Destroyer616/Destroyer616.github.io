@@ -132,6 +132,9 @@ params:
       - title: Microsoft Azure Administrator.
         url: "https://learn.microsoft.com/api/credentials/share/en-us/kiranreddy-3145/68FAA2EF1659E4BC?sharingId=9746CB64FA6C9FFE"
         description: Validate ability to configure, manage, secure, and administer Azure environments.
+      - title:  Google Cybersecurity Professional
+        url:  "https://coursera.org/share/349f229fe8c4af6ee0b50fe1ea44da87"
+        description:  "Those who earn the Google Cybersecurity Certificate have completed eight courses, developed by Google, that include hands-on, practicebased assessments and are designed to prepare them for entry-level oles in cybersecurity. They are competent in beginner-level Python, Linux, SQL, Security Information and Event Management (SIEM) tools, and Intrusion Detection Systems (IDS). They know how to identify common cybersecurity risks, threats, and vulnerabilities, as well as the techniques to mitigate."
   skill:
     title: Skills
     panelId: skill-panel
